@@ -10,5 +10,6 @@ public class FurnitureStore {
         chair.displayDetails();
         table.displayDetails();
         cupboard.displayDetails();
+        System.out.println("hello");
  }
 }
