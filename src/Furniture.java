@@ -31,5 +31,6 @@ public class Furniture {
         System.out.println("Use           :"+use);
         System.out.println("Price         :Rs"+price);
         System.out.println("FinalPrice    :Rs"+calculateFinalPrice());
+        System.out.println("Testing");
     }
 }
